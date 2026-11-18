@@ -2,6 +2,10 @@
 
 Laboratorio virtual en Unity 6 con un **asistente por voz simulado** que interpreta comandos en lenguaje natural (español) para controlar objetos de la escena: el color de un cubo, la luz del techo y una puerta.
 
+**Autor:** Deyvi Sanchez
+**Curso:** Laboratorio de Realidad Extendida (XR) para Videojuegos
+**Actividad:** Semana 11
+
 ![XR Voice Lab](docs/screenshot-1.png)
 
 ## ✨ Características
@@ -41,7 +45,6 @@ También podés escribir cualquier frase en el campo de texto y pulsar **INTERPR
 ![Luz apagada](docs/screenshot-3.png)
 
 > Las imágenes de esta sección son ilustrativas (mockups generados del aspecto de la escena y el panel HUD).
-
 ## 🚀 Cómo ejecutarlo
 
 1. Cloná el repo y abrí la carpeta del proyecto con **Unity 6+** (Unity Hub → Open → seleccionar la carpeta del proyecto).
